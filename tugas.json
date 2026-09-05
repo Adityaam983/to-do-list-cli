@@ -1,0 +1,10 @@
+[
+    {
+        "nama": "Belajar Github",
+        "selesai": true
+    },
+    {
+        "nama": "Belajar Python",
+        "selesai": false
+    }
+]
